@@ -1,0 +1,9 @@
+# masfufat-alqadar
+
+حاسبة مصفوفة القدر بتاريخ الميلاد مع خريطة تسع نقاط، خطوات حساب قابلة للتحقق و٢٢ فكرة للتأمل. بياناتك تبقى في متصفحك.
+
+## Main page
+- [مصفوفة القدر](https://bonsaionlinecas-sys.github.io/masfufat-alqadar/): حاسبة مصفوفة القدر بتاريخ الميلاد مع خريطة تسع نقاط، خطوات حساب قابلة للتحقق و٢٢ فكرة للتأمل. بياناتك تبقى في متصفحك.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.
